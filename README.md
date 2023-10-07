@@ -15,8 +15,8 @@
 Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit about me:
 
 - 😄 Pronouns: He/Him
-- 🌍 Location: [Russia]
-- 🚀 Skills: [Your Skills]
+- 🌍 Location: Russia
+- 🚀 Skills: 
 - 🌱 I’m currently learning: [What you're learning]
 - 💬 Ask me about: [Your areas of expertise]
 
