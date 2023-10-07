@@ -15,15 +15,14 @@
 Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit about me:
 
 - 😄 Pronouns: He/Him
-- 🌍 Location: [Your Location]
-- 💼 Job: [Your Job/Role]
+- 🌍 Location: [Russia]
 - 🚀 Skills: [Your Skills]
 - 🌱 I’m currently learning: [What you're learning]
 - 💬 Ask me about: [Your areas of expertise]
 
 ## Contact Me
 
-You can reach out to me through [Email](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+You can reach out to me through [Email](mailto:musienko.roma@mail.ru).
 
 ## My Projects
 
