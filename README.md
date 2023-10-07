@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#000&lines=Hello+everyone,+my+name+is+Roman)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=24&pause=1000&color=000000&background=5B22FF85&width=435&lines=Hi+everyone%2C+my+name+is+Roman!)](https://git.io/typing-svg)
  
 
 <!--
