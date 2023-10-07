@@ -37,7 +37,7 @@ Feel free to explore my repositories to discover more!
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ggertzog&show_icons=true&theme=dark)
 
 ## Visitors
 
