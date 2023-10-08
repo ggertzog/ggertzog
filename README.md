@@ -35,6 +35,9 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
 # GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggertzog&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggertzog&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
