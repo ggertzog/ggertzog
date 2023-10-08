@@ -41,20 +41,6 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
 
 You can reach out to me through [Email](mailto:musienko.roma@mail.ru).
 
-## My Projects
-
-Here are some of the projects I've been working on:
-
-- [Project 1](link-to-project-1): Description of Project 1.
-- [Project 2](link-to-project-2): Description of Project 2.
-- [Project 3](link-to-project-3): Description of Project 3.
-
-Feel free to explore my repositories to discover more!
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ggertzog&show_icons=true&theme=dark)
-
 ## Visitors
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ggertzog)
