@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+everyone%2C+my+name+is+Roman!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+everyone!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,11 +12,11 @@
 
 ## About Me
 
-Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit about me:
+Hello! I'm Roman, and . Here's a bit about me:
 
 - 👨‍🎓 I'm currently studying at __Yandex.Praktikum__
 - 🌱 I’m currently learning: __React__, __JavaScript__
-- 💬 Ask me about: [Mail.ru](musienko.roma@mail.ru) [Telegram](https://t.me/igertzog)
+- 🤩 I love coding and creating awesome [projects](https://github.com/ggertzog?tab=repositories)
 
 ## Languages and Tools
 <div>
@@ -42,5 +42,4 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
 </p>
 
 ## Contact Me
-
-You can reach out to me through [Email](mailto:musienko.roma@mail.ru).
+[![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
