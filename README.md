@@ -14,10 +14,9 @@
 
 Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit about me:
 
-- 😄 Pronouns: He/Him
-- 🌍 Location: Russia
-- 🌱 I’m currently learning: [What you're learning]
-- 💬 Ask me about: [Your areas of expertise]
+- 👨‍🎓 I'm currently studying at __Yandex.Praktikum__
+- 🌱 I’m currently learning: __React__, __JavaScript__
+- 💬 Ask me about: [Mail.ru](musienko.roma@mail.ru) [Telegram](https://t.me/igertzog)
 
 ## Languages and Tools
 <div>
@@ -27,6 +26,7 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
