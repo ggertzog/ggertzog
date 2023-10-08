@@ -42,4 +42,4 @@ Hello! I'm Roman, and . Here's a bit about me:
 </p>
 
 ## Contact Me
-[![Telegram Badge](https://img.shields.io/badge/-ggertzog-blue?style=flat&logo=Telegram&logoColor=white&width=50&height=30)](https://t.me/igretzog)
+[![Telegram Badge](https://img.shields.io/badge/-ggertzog-blue?style=flat&logo=Telegram&logoColor=white&width=80&height=50)](https://t.me/igretzog)
