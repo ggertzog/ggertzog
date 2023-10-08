@@ -32,7 +32,7 @@ Hello! I'm Roman, and . Here's a bit about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
 </div>
 
-# GitHub Stats
+## GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggertzog&theme=dark&hide_border=true"/>
 </p>
@@ -42,4 +42,4 @@ Hello! I'm Roman, and . Here's a bit about me:
 </p>
 
 ## Contact Me
-[![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
+[![Telegram Badge](https://img.shields.io/badge/-ggertzog-blue?style=flat&logo=Telegram&logoColor=white&width=50&height=30)](https://t.me/igretzog)
