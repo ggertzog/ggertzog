@@ -17,7 +17,7 @@ Hello! I'm Roman, and . Here's a bit about me:
 - 👨‍🎓 I'm currently studying at __Yandex.Praktikum__
 - 🌱 I’m currently learning: __React__, __JavaScript__
 - 🤩 I love coding and creating awesome [projects](https://github.com/ggertzog?tab=repositories)
-- 💬 Ask me about [![Telegram Badge](https://img.shields.io/badge/-ggertzog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
+- 💬 Ask me about [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
 
 ## Languages and Tools
 <div>
