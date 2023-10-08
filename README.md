@@ -19,7 +19,7 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
 - 🌱 I’m currently learning: [What you're learning]
 - 💬 Ask me about: [Your areas of expertise]
 
-## :airplane: Languages and Tools
+## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
 </div>
 
-#
+# GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggertzog&theme=dark&hide_border=true"/>
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggertzog&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
@@ -41,7 +41,3 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
 ## Contact Me
 
 You can reach out to me through [Email](mailto:musienko.roma@mail.ru).
-
-## Visitors
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ggertzog)
