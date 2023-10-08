@@ -17,6 +17,7 @@ Hello! I'm Roman, and . Here's a bit about me:
 - 👨‍🎓 I'm currently studying at __Yandex.Praktikum__
 - 🌱 I’m currently learning: __React__, __JavaScript__
 - 🤩 I love coding and creating awesome [projects](https://github.com/ggertzog?tab=repositories)
+- 💬 Ask me about [![Telegram Badge](https://img.shields.io/badge/-ggertzog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
 
 ## Languages and Tools
 <div>
@@ -41,7 +42,4 @@ Hello! I'm Roman, and . Here's a bit about me:
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggertzog&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-## Contact Me
-[![Telegram Badge](https://img.shields.io/badge/-ggertzog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
-[![Mail.ru Badge](https://img.shields.io/badge/Mail.ru?style=flat&logo=Mail.ru&logoColor=yellow&label=ggertzog&labelColor=yellow&color=Blue)
 
