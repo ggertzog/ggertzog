@@ -36,9 +36,7 @@ Hello! I'm Roman, and I love coding and creating awesome projects. Here's a bit 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ggertzog&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggertzog&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
 ## Contact Me
