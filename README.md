@@ -1,4 +1,4 @@
-# My GitHub Profile
+# My GitHub Profile <p align="center"> <img src="https://komarev.com/ghpvc/?username=ggertzog&label=Profile%20views&color=0e75b6&style=flat" alt="ggertzog" /> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
