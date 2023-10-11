@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=ecf05e47ihm9hnp3iy077xnsux8pxtph5qjyd8olai6qfkkh&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" />
 </p>
-<p align="center"> <img width="400" height="50" src="https://komarev.com/ghpvc/?username=ggertzog&label=Profile%20views&color=0e75b6&style=flat" alt="ggertzog" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ggertzog&label=Profile%20views&color=0e75b6&style=flat" alt="ggertzog" /></p>
 
 ## About Me
 
