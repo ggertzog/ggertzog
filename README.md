@@ -1,4 +1,4 @@
-# My GitHub Profile
+<h1> Мой GitHub Профиль</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,16 +11,20 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ggertzog&label=Profile%20views&color=0e75b6&style=flat" alt="ggertzog" /></p>
 
-## About Me
+<h2>Обо мне</h2>
 
-Hello! I'm Roman, and . Here's a bit about me:
+<p>Здравствуйте! Меня зовут Роман, и вот немного информации обо мне:</p>
 
-- 👨‍🎓 I'm currently studying at __Yandex.Praktikum__
-- 🌱 I’m currently learning: __React__, __JavaScript__
-- 🤩 I love coding and creating awesome [projects](https://github.com/ggertzog?tab=repositories)
-- 💬 Ask me about [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igretzog)
+<ul>
+  <li>Прошлый опыт 💪:<span>  Работал монтажником фассадов на протяжении 3 лет.</span></li>
+  <li>Обучение и курсы 👨‍🎓:<span>  Окончил курсы Яндекс.Практикум по профессии Веб-разработчик.</span></li>
+  <li>Мотивация ⚡:<span>  Я выбрал сферу Веб-разработки, так как считаю её очень перспективной. Возможность создавать проекты, изучать новые технологии, решать непростые и интересные задачи, только разжигают во мне любовь к своему делу.</span></li>
+  <li>Навыки 💻:<span>  Развиваю знания полученные в Яндекс.Практикум, а именно: React, JavaScript, основы Node.js, Вёрстка а так же изучаю TypeScript и препроцессор SCSS</span></li>
+  <li>Работа ⭐:<span>  Активно ищу работу Frontend разработчиком. Открыт к любым предложениям.</span></li>
+  <li>Для связи со мной 💬:<a href='https://t.me/igretzog'>  <img src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white'></a></li>
+</ul>
 
-## Languages and Tools
+<h2>Технологии и Инструменты</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,7 +38,7 @@ Hello! I'm Roman, and . Here's a bit about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
 </div>
 
-## GitHub Stats
+<h2>Статистика GitHub</h2>
 <p align="center">
   <img align="center" width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=ggertzog&theme=dark&hide_border=true"/>
 </p>
@@ -43,7 +47,7 @@ Hello! I'm Roman, and . Here's a bit about me:
   <img align="center" height="195px" width="465" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggertzog&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-## Codewars Stats
+<h2>Статистика Codewars</h2>
 <p align="center">
   <img align="center" src="https://www.codewars.com/users/ggertzog/badges/large" />
 </p>
