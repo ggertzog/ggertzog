@@ -1,6 +1,11 @@
 <h1> Мой GitHub Профиль</h1>
 
 <div>
+  <p align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=40&pause=1000&color=lime&center=true&vCenter=true&width=435&lines=Hi+everyone!" alt="Typing SVG" />
+      </a>
+  </p>
   <div>
     <h2>Здравствуйте! Меня зовут Роман, и вот немного информации обо мне:</h2>
     <ul>
@@ -13,11 +18,6 @@
     </ul>
   </div>
   <div>
-    <p align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=24&pause=1000&color=lime&center=true&vCenter=true&width=435&lines=Hi+everyone!" alt="Typing SVG" />
-      </a>
-    </p>
     <p align="center">
       <img src="https://media4.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=ecf05e47ihm9hnp3iy077xnsux8pxtph5qjyd8olai6qfkkh&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" />
     </p>
