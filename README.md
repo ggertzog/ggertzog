@@ -1,28 +1,29 @@
 <h1> Мой GitHub Профиль</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=24&pause=1000&color=lime&center=true&vCenter=true&width=435&lines=Hi+everyone!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=ecf05e47ihm9hnp3iy077xnsux8pxtph5qjyd8olai6qfkkh&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" />
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ggertzog&label=Profile%20views&color=0e75b6&style=flat" alt="ggertzog" /></p>
-
-<h2>Обо мне</h2>
-
-<p>Здравствуйте! Меня зовут Роман, и вот немного информации обо мне:</p>
-
-<ul>
-  <li>Прошлый опыт 💪:<span>  Работал монтажником фассадов на протяжении 3 лет.</span></li>
-  <li>Обучение и курсы 👨‍🎓:<span>  Окончил курсы Яндекс.Практикум по профессии Веб-разработчик.</span></li>
-  <li>Мотивация ⚡:<span>  Я выбрал сферу Веб-разработки, так как считаю её очень перспективной. Возможность создавать проекты, изучать новые технологии, решать непростые и интересные задачи, только разжигают во мне любовь к своему делу.</span></li>
-  <li>Навыки 💻:<span>  Развиваю знания полученные в Яндекс.Практикум, а именно: React, JavaScript, основы Node.js, Вёрстка а так же изучаю TypeScript и препроцессор SCSS</span></li>
-  <li>Работа ⭐:<span>  Активно ищу работу Frontend разработчиком. Открыт к любым предложениям.</span></li>
-  <li>Для связи со мной 💬:<a href='https://t.me/igretzog'>  <img src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white'></a></li>
-</ul>
+<div>
+  <div>
+    <h2>Здравствуйте! Меня зовут Роман, и вот немного информации обо мне:</h2>
+    <ul>
+      <li>Прошлый опыт 💪:<span>  Работал монтажником фассадов на протяжении 3 лет.</span></li>
+      <li>Обучение и курсы 👨‍🎓:<span>  Окончил курсы Яндекс.Практикум по профессии Веб-разработчик.</span></li>
+      <li>Мотивация ⚡:<span>  Я выбрал сферу Веб-разработки, так как считаю её очень перспективной. Возможность создавать проекты, изучать новые технологии, решать непростые и интересные задачи, только разжигают во мне любовь к своему делу.</span></li>
+      <li>Навыки 💻:<span>  Развиваю знания полученные в Яндекс.Практикум, а именно: React, JavaScript, основы Node.js, Вёрстка а так же изучаю TypeScript и препроцессор SCSS</span></li>
+      <li>Работа ⭐:<span>  Активно ищу работу Frontend разработчиком. Открыт к любым предложениям.</span></li>
+      <li>Для связи со мной 💬:<a href='https://t.me/igretzog'>  <img src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white'></a></li>
+    </ul>
+  </div>
+  <div>
+    <p align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Unna&weight=900&size=24&pause=1000&color=lime&center=true&vCenter=true&width=435&lines=Hi+everyone!" alt="Typing SVG" />
+      </a>
+    </p>
+    <p align="center">
+      <img src="https://media4.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=ecf05e47ihm9hnp3iy077xnsux8pxtph5qjyd8olai6qfkkh&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" />
+    </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=ggertzog&label=Profile%20views&color=0e75b6&style=flat" alt="ggertzog" /></p>
+  </div>
+</div>
 
 <h2>Технологии и Инструменты</h2>
 <div>
